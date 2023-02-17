@@ -1,9 +1,0 @@
-[package]
-org = "SumayyaTestOrg"
-name = "Sample_GQL"
-version = "1.0.0"
-export = ["Sample_GQL"]
-distribution = "2201.3.1"
-
-[build-options]
-observabilityIncluded = true
