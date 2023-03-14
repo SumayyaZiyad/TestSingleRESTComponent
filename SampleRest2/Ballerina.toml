@@ -1,9 +1,0 @@
-[package]
-org = "SumayyaTestOrg"
-name = "SampleRest2"
-version = "1.0.0"
-export = ["SampleRest2"]
-distribution = "2201.3.1"
-
-[build-options]
-observabilityIncluded = true

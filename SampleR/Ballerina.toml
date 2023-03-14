@@ -1,9 +1,0 @@
-[package]
-org = "SumayyaTestOrg"
-name = "SampleR"
-version = "1.0.0"
-export = ["SampleR"]
-distribution = "2201.3.1"
-
-[build-options]
-observabilityIncluded = true
